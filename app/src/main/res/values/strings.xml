@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="alphabetic">Alphabetic</string>
+    <string name="symbols">Symbols</string>
+    <string name="numbers">Numbers</string>
+    <string name="select_your_password_containing_char">Select your password containing char:</string>
+    <string name="length">Length:</string>
+    <string name="generate">Generate</string>
+    <string name="generated_password">Generated Password:</string>
+    <string name="password_will_appear_here">Password will appear here</string>
+    <string name="default_length">10</string>
+</resources>
